@@ -79,7 +79,7 @@ Save and look at your preview.
 
 Find this block and uncomment it:
 
-```css
+
 .nav {
   background-color: #34495e;
   padding: 12px 24px;
